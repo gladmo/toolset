@@ -39,6 +39,9 @@ github.com/modern-go/reflect2
 # github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
 ## explicit
 github.com/mohae/deepcopy
+# github.com/patrickmn/go-cache v2.1.0+incompatible
+## explicit
+github.com/patrickmn/go-cache
 # github.com/richardlehane/mscfb v1.0.3
 ## explicit
 github.com/richardlehane/mscfb
@@ -96,6 +99,9 @@ golang.org/x/text/message
 golang.org/x/text/message/catalog
 golang.org/x/text/runes
 golang.org/x/text/transform
+# golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11
+## explicit
+golang.org/x/time/rate
 # gopkg.in/yaml.v2 v2.2.8
 ## explicit
 gopkg.in/yaml.v2
